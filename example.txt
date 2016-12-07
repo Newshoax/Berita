@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Webs Bangkee">
+<meta name="keywords" content="Fake News">
+<meta name="author" content="Agus Ibrahim">
+
+
+    <title>Webs Bangkee!</title>
+
+    
+    
+        <style>
+      /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk!   text-decoration: none;*/
+
+@import url("https://fonts.googleapis.com/css?family=VT323");
+body {
+  background: black;
+  margin: 10px;
+}
+
+h2 {
+  color: green;
+  line-height: 110%;
+  font-family: 'VT323', monospace;
+}
+
+a {
+  color: green;
+}
+
+a:visited {
+  color: green;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+  text-decoration: none;
+}
+
+a:active {
+  color: green;
+  text-decoration: none;
+}
+
+hr {
+  border: none;
+  border-top: 2px dotted green;
+  color: green;
+  height: 1px;
+  width: 100%;
+}
+
+span:after {
+  content: '_';
+  opacity: 0;
+  animation: cursor 0.7s infinite;
+}
+
+@keyframes cursor {
+  0% {
+    opacity: 0;
+  }
+  40% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+#quotelives {
+  padding-top: 10px;
+}
+
+
+    </style>
+
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+
+    
+  </head>
+
+  <body>
+
+
+
+
+   <div class="quote">
+  <div class="container">
+    <div id="quotelives">
+      <h2>Selamat datang di website bangkee!</h2><br><h2>
+        Tidak semua berita yang kamu lihat di internet itu benar adanya, ada banyak orang kampret diluar sana yang membuat berita palsu untuk kepentingan tertentu. Jadi, berhati-hatilah. Jangan share berita yang belum tentu kebenarannya, cek dan telusuri terlebih dahulu.
+      </h2>
+    </div>
+    <div id="userprompt">
+     <h2>=========================================</h2>
+      <h2><a href="http://fb.me/mynameisagoes">agusibrahim</a>@localhost:~$ <span></span></h2>
+    </div>
+  </div>
+</div>
+  </body>
+</html>
